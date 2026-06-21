@@ -22,11 +22,11 @@ El objetivo es evaluar experimentalmente ambos algoritmos en diferentes datasets
 
 ## 👥 Integrantes
 
-| Nombres | Rol |
-|:---|:---|
-| Ccansaya Chaiza, Ronald Ytali | Implementación de BMSSP y pruebas |
-| Estrada Cuyto, Brandon Paolo | Implementación de Dijkstra y análisis de métricas |
-| Pacha Quispe, Jean Marco | Documentación y gráficas de resultados |
+| Nombres | 
+|:---|
+| Ccansaya Chaiza, Ronald Ytali |
+| Estrada Cuyto, Brandon Paolo | 
+| Pacha Quispe, Jean Marco | 
 
 ---
 
