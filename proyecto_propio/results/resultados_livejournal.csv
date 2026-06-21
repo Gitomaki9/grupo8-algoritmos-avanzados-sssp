@@ -1,0 +1,3 @@
+Dataset,Algoritmo,Ejecucion,Tiempo(s),Distancia,Nodos
+livejournal,v2,1,47.5767,15.00,16
+livejournal,dijkstra,1,51.3030,15.00,16

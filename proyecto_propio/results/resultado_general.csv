@@ -1,0 +1,8 @@
+Dataset,Algoritmo,Promedio(s),Min(s),Max(s),Distancia,Nodos
+rome,v1,0.0025,0.0025,0.0025,34862.00,60
+rome,v2,0.0247,0.0247,0.0247,34862.00,60
+rome,dijkstra,0.0014,0.0014,0.0014,34862.00,60
+google,v2,1.9686,1.8920,2.0439,33.00,34
+google,dijkstra,3.3895,3.2951,3.4675,33.00,34
+livejournal,v2,47.5767,47.5767,47.5767,15.00,16
+livejournal,dijkstra,51.3030,51.3030,51.3030,15.00,16
